@@ -4,17 +4,17 @@
 
 **screen -S mio_nome**
 
-* Sulle M machine
+* Sulle **M machines**
 
 source $VO_CMS_SW_DIR/cmsset_default.sh
 
-cmsenv (deve essere un alias in bash)
+**cmsenv** (deve essere un alias in bash)
 
 source /cvmfs/cms.cern.ch/crab3/crab.sh
 
-* Su lxplus semplicemente:
+* Su **lxplus** semplicemente:
 
-cmsenv (deve essere un alias in bash)
+**cmsenv** (deve essere un alias in bash)
 
 Lancia il programma
 
