@@ -27,6 +27,8 @@ Lancia il programma
 
 * Per uccidere tutto: exit
 
+* Puoi anche killare tutto con screen -X -S [session # you want to kill] quit
+
 Per vedere tutte le sessioni di screeen aperte:
 screen -ls: mi dice i nomi dei Socket, in modo da poter fare: screen -R -D nome_giusto
 
